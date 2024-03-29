@@ -2,8 +2,9 @@
 
 Welcome to my GitHub profile! I'm Avneesh Thakur, a passionate MERN stack developer with expertise in Node.js, React, and AWS. 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avneeshthakur" alt="avneeshthakur" /> </p>
+
 ## About Me
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajneeshksharma" alt="rajneeshksharma" /> </p>
 
 - 💻 I'm proficient in building scalable web applications using Node.js for server-side logic and React for dynamic user interfaces.
 - ☁️ I specialize in leveraging AWS cloud services to create robust and efficient solutions.
