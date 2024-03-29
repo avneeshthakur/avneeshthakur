@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**avneeshthakur/avneeshthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Avneesh Thakur, a passionate MERN stack developer with expertise in Node.js, React, and AWS. 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I'm proficient in building scalable web applications using Node.js for server-side logic and React for dynamic user interfaces.
+- ☁️ I specialize in leveraging AWS cloud services to create robust and efficient solutions.
+- 🌱 I'm constantly learning and exploring new technologies to stay ahead in the ever-evolving tech landscape.
+
+## Skills
+
+- **Languages:** JavaScript (Node.js), HTML, CSS
+- **Frontend:** React, Redux, HTML5, CSS3, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Cloud:** AWS (EC2, S3, Lambda, DynamoDB, etc.)
+- **Tools:** Git, npm, Webpack, Babel
+
+## Let's Connect!
+
+📫 Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/avneesh-thakur-a3a6bb114) for collaborations to stay updated on my latest projects and tech insights.
+
+Let's build something awesome together! 🚀✨
